@@ -1,2 +1,2 @@
 # My personal website
-https://bprsh.github.io/
+https://thebhishanpoudel.github.io/
